@@ -10,13 +10,17 @@ namespace ScreenSound.Banco;
 
 public class DbContextBase // AQUI USO O PACOTE SQLCLIENT PARA FAZER A CONEXÃO COM O BANCO
 {
-    private string DbConnectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbScreenSound;" +
+    private string DbConnectionStringPc = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbScreenSound;" +
+        "Integrated Security=True;Encrypt=False;" +
+        "Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
+
+    private string DbConnectionStringNotbook = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbScreenSound;" +
         "Integrated Security=True;Encrypt=False;" +
         "Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
     public SqlConnection ObterConexao()
     {
-        return new SqlConnection(DbConnectionString);
+        return new SqlConnection(DbConnectionStringPc);
     }
 
     internal  IEnumerable<Artista> Listar()

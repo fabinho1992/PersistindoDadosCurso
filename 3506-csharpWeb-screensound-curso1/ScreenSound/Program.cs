@@ -1,4 +1,5 @@
-﻿using ScreenSound.Banco;
+﻿using Microsoft.Data.SqlClient;
+using ScreenSound.Banco;
 using ScreenSound.Menus;
 using ScreenSound.Modelos;
 
@@ -75,3 +76,17 @@ void ExibirOpcoesDoMenu()
 }
 
 ExibirOpcoesDoMenu();
+
+#region Sobre ADO.Net
+//O ADO.NET é um conjunto de classes que permitem acesso a dados nas aplicações .NET.
+//    Através dele é possível acessar dados de maneira consistente e ainda fazer a 
+//    separação e a manipulação dos dados.
+
+//Para fazer essa conexão e os acessos necessários utilizamos o 
+//    SQL Client através dos seguintes objetos:
+
+//SQLConnection - representa a conexão com o banco de dados;
+//SQLComand - representa a instrução SQL que será executada no banco de dados;
+//SQLDataReader - fornece um modo de ler as linhas do banco de dados.
+
+#endregion
