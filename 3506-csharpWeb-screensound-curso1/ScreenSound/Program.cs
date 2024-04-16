@@ -6,12 +6,19 @@ using ScreenSound.Modelos;
 
 try
 {
-    var conexao = new DbContextBase();
-    var listaArtistas = conexao.Listar();
-    foreach ( var artista in listaArtistas)
+    var conexao = new ArtistaDal();
+    var lista = conexao.Listar();
+
+    foreach (var item in lista)
     {
-        Console.WriteLine(artista);
+        Console.WriteLine(item);
     }
+
+    //conexao.Adicionar(new Artista("Turma do Pagode", "Grupo de Pagode "));
+    //conexao.Deletar(new Artista("Turma do Pagode ", "Grupo de pagode") { Id = 3 });
+    //conexao.Atualizar(new Artista("Turma do Pagode ", "Grupo de pagode ") { Id = 2 });
+
+    
     
 }
 catch (Exception ex)
