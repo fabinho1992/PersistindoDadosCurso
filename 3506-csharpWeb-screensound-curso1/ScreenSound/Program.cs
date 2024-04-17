@@ -4,37 +4,9 @@ using ScreenSound.Menus;
 using ScreenSound.Modelos;
 
 
-try
-{
-    var conexao = new ArtistaDal();
-    var lista = conexao.Listar();
 
-    foreach (var item in lista)
-    {
-        Console.WriteLine(item);
-    }
-
-    //conexao.Adicionar(new Artista("Turma do Pagode", "Grupo de Pagode "));
-    //conexao.Deletar(new Artista("Turma do Pagode ", "Grupo de pagode") { Id = 3 });
-    //conexao.Atualizar(new Artista("Turma do Pagode ", "Grupo de pagode ") { Id = 2 });
-
-    
-    
-}
-catch (Exception ex)
-{
-    Console.WriteLine(ex.Message);
-    
-}
-
-return;
-
-Artista ira = new Artista("Ira!", "Banda Ira!");
-Artista beatles = new("The Beatles", "Banda The Beatles");
-
-Dictionary<string, Artista> artistasRegistrados = new();
-artistasRegistrados.Add(ira.Nome, ira);
-artistasRegistrados.Add(beatles.Nome, beatles);
+var contexto = new DbContextBase();
+var artistaDal = new Dal<Artista>(contexto);
 
 Dictionary<int, Menu> opcoes = new();
 opcoes.Add(1, new MenuRegistrarArtista());
@@ -73,7 +45,7 @@ void ExibirOpcoesDoMenu()
     if (opcoes.ContainsKey(opcaoEscolhidaNumerica))
     {
         Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
-        menuASerExibido.Executar(artistasRegistrados);
+        menuASerExibido.Executar(artistaDal);
         if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
     } 
     else

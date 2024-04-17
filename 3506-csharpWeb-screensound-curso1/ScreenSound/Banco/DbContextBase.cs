@@ -12,8 +12,9 @@ namespace ScreenSound.Banco;
 public class DbContextBase : DbContext// AQUI USO O PACOTE SQLCLIENT PARA FAZER A CONEXÃO COM O BANCO
 {
     public DbSet<Artista> Artistas { get; set; }
+    public DbSet<Musica> Musicas { get; set; }
 
-    private string DbConnectionStringPc = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbScreenSound;" +
+    private string DbConnectionStringPc = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbScreenSoundV0;" +
         "Integrated Security=True;Encrypt=False;" +
         "Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
 
