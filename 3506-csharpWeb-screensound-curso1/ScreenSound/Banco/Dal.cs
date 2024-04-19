@@ -47,5 +47,10 @@ namespace ScreenSound.Banco
 
         }
 
+        public IEnumerable<T> ListarPor(Func<T, bool> condicao)
+        {
+            return _dbContext.Set<T>().Where(condicao);
+        }
+
     }
 }

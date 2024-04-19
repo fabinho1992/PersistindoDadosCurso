@@ -20,7 +20,9 @@ public class DbContextBase : DbContext// AQUI USO O PACOTE SQLCLIENT PARA FAZER 
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(DbConnectionStringPc);
+        optionsBuilder.
+            UseSqlServer(DbConnectionStringPc)
+            .UseLazyLoadingProxies();
     }
 
 
