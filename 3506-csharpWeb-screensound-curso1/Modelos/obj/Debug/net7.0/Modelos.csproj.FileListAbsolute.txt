@@ -1,0 +1,12 @@
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\bin\Debug\net7.0\Modelos.deps.json
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\bin\Debug\net7.0\Modelos.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\bin\Debug\net7.0\Modelos.pdb
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfoInputs.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfo.cs
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\Modelos.csproj.CoreCompileInputs.cache
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\Modelos.sourcelink.json
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\Modelos.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\refint\Modelos.dll
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\Modelos.pdb
+C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\Modelos\obj\Debug\net7.0\ref\Modelos.dll
