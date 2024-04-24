@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj": {}
   },
   "projects": {
-    "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj",
         "projectName": "APIScreen",
-        "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj",
-        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\APIScreen.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj": {
-                "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj"
               },
-              "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj"
               },
-              "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj": {
-                "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj"
               }
             }
           }
@@ -48,11 +48,34 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -72,24 +95,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj",
         "projectName": "Dados",
-        "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj",
-        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,8 +127,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -114,6 +137,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -159,24 +187,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj",
-        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -197,6 +225,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -218,24 +251,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj",
-        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\ScreenSound.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -250,11 +283,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj": {
-                "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Dados\\Dados.csproj"
               },
-              "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj"
+              "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -263,6 +296,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -308,7 +346,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

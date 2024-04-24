@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\curso back end c#\\alurascreensound\\persistindodados\\persistindodadoscurso\\3506-csharpweb-screensound-curso1\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{744ACA5B-F81A-483D-A5E9-CCED33A28004}|APIScreen\\APIScreen.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\curso back end c#\\alurascreensound\\persistindodados\\persistindodadoscurso\\3506-csharpweb-screensound-curso1\\apiscreen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744ACA5B-F81A-483D-A5E9-CCED33A28004}|APIScreen\\APIScreen.csproj|solutionrelative:apiscreen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\curso back end c#\\alurascreensound\\persistindodados\\persistindodadoscurso\\3506-csharpweb-screensound-curso1\\screensound\\banco\\dbcontextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\dbcontextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{329F3E45-EBC4-4BA0-93CA-02CBA7EEEAC0}|SreenAPI\\SreenAPI.csproj|c:\\users\\usuario\\desktop\\cursos de programa\u00E7\u00E3o\\curso back end c#\\alurascreensound\\persistindodados\\persistindodadoscurso\\3506-csharpweb-screensound-curso1\\sreenapi\\sreenapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{329F3E45-EBC4-4BA0-93CA-02CBA7EEEAC0}|SreenAPI\\SreenAPI.csproj|solutionrelative:sreenapi\\sreenapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\Program.cs",
-              "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:46:30.011Z",
+              "DocumentIndex": 1,
+              "Title": "SreenAPI",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\SreenAPI\\SreenAPI.csproj",
+              "RelativeDocumentMoniker": "SreenAPI\\SreenAPI.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\SreenAPI\\SreenAPI.csproj",
+              "RelativeToolTip": "SreenAPI\\SreenAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T20:37:48.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DbContextBase.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\Banco\\DbContextBase.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Banco\\DbContextBase.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\ScreenSound\\Banco\\DbContextBase.cs",
-              "RelativeToolTip": "ScreenSound\\Banco\\DbContextBase.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABAAAAAkAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\Program.cs",
+              "RelativeDocumentMoniker": "APIScreen\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Cursos de Programa\u00E7\u00E3o\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\APIScreen\\Program.cs",
+              "RelativeToolTip": "APIScreen\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:41:17.898Z",
+              "WhenOpened": "2024-04-24T17:11:42.161Z",
               "EditorCaption": ""
             }
           ]
