@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScreenSound
-build_property.ProjectDir = C:\Users\Usuario\Desktop\Cursos de Programação\Curso Back end C#\AluraScreenSound\PersistindoDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\ScreenSound\
+build_property.ProjectDir = C:\AulasAluraBackEnd\CursosApsNetAPI\ProjetoAluraScrenSound\ProjetosFeitosNasAulas\PersistenciaDeDados\PersistindoDadosCurso\3506-csharpWeb-screensound-curso1\ScreenSound\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

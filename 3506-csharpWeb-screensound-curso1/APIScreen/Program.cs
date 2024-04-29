@@ -1,4 +1,6 @@
 using APIScreen.EndPoints;
+using APIScreen.Request.Artista;
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.OpenApi.Models;
 using ScreenSound.Banco;
@@ -22,6 +24,13 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "ScreenSound", Version = "v1" });
 });
 
+//AutoMapper
+var config = new AutoMapper.MapperConfiguration(cfg =>
+ {
+     cfg.CreateMap<ArtistaRequest, Artista>();
+ });
+
+IMapper mapper = config.CreateMapper();
 var app = builder.Build();
 
 app.AddEndPointsArtistas();

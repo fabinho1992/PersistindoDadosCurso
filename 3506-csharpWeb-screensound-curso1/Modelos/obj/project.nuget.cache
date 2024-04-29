@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+9H2wSjpc9Q0dZVLs4rY6GhlwvLwVYLYgbHJXicqAhOezFpRdeQrdN32gniPyJ4eiRu17oipF8vIAYHUYHblWg==",
+  "dgSpecHash": "coiH07WPbTco0/WLdvsGQtZwFGl50e5/7ZP7w/Lw6BY4bU3X0zP8H5iP9y9OQP92GeigTaTX+C+NRYSu7kWo+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Cursos de Programação\\Curso Back end C#\\AluraScreenSound\\PersistindoDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj",
+  "projectFilePath": "C:\\AulasAluraBackEnd\\CursosApsNetAPI\\ProjetoAluraScrenSound\\ProjetosFeitosNasAulas\\PersistenciaDeDados\\PersistindoDadosCurso\\3506-csharpWeb-screensound-curso1\\Modelos\\Modelos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

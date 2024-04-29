@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SreenAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0ea84003a1a351256c8f9b7a24bc6e90a450839")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85a6dce46b8263cad7339c3a962eeffc63647deb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SreenAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SreenAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
