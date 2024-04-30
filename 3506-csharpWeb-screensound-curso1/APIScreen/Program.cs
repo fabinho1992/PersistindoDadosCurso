@@ -3,6 +3,7 @@ using APIScreen.Request.Artista;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.OpenApi.Models;
+using Modelos.Modelos;
 using ScreenSound.Banco;
 using ScreenSound.Modelos;
 using System.Text.Json.Serialization;
@@ -12,6 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<DbContextBase>();
 builder.Services.AddTransient<Dal<Artista>>();
 builder.Services.AddTransient<Dal<Musica>>();
+builder.Services.AddTransient<Dal<Genero>>();
 
 // essa configura��o garante que as refer�ncias c�clicas sejam tratadas adequadamente durante a serializa��o JSON em um aplicativo ASP.NET Core.
 //FAZENDO COM QUE CONSIGA MOSTRAR NO NAVEGADOR MEU JSON 
@@ -35,6 +37,7 @@ var app = builder.Build();
 
 app.AddEndPointsArtistas();
 app.AddEndPointsMusicas();
+app.AddEndPointsGeneros();
 
 app.UseSwagger();
 app.UseSwaggerUI();

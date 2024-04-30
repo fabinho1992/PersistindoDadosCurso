@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using Modelos.Modelos;
 
 namespace ScreenSound.Banco;
 
@@ -13,6 +14,7 @@ public class DbContextBase : DbContext// AQUI USO O PACOTE SQLCLIENT PARA FAZER 
 {
     public DbSet<Artista> Artistas { get; set; }
     public DbSet<Musica> Musicas { get; set; }
+    public DbSet<Genero> Generos { get; set; }
 
     private string DbConnectionStringPc = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=DbScreenSoundV0;" +
         "Integrated Security=True;Encrypt=False;" +
@@ -25,10 +27,17 @@ public class DbContextBase : DbContext// AQUI USO O PACOTE SQLCLIENT PARA FAZER 
             .UseLazyLoadingProxies();
     }
 
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Musica>()
+            .HasMany(x => x.Generos)
+            .WithMany(x => x.Musicas);
+    }
 
-    
 
-   
 
-    
+
+
+
+
 }

@@ -1,7 +1,9 @@
-﻿using APIScreen.Request.Musica;
+﻿using APIScreen.Request.Genero;
+using APIScreen.Request.Musica;
 using APIScreen.Response;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using Modelos.Modelos;
 using ScreenSound.Banco;
 using ScreenSound.Modelos;
 
@@ -19,7 +21,31 @@ namespace APIScreen.EndPoints
             return new MusicaResponse(musica.Id, musica.Nome!, musica.Artista.Nome);
         }
 
-        public static void AddEndPointsMusicas( this WebApplication app)
+        private static ICollection<Genero> ConverterGeneroRequest(IEnumerable<GeneroRequest> generos, [FromServices] Dal<Genero> dal)
+        {
+            var listaGeneros = new List<Genero>();
+            foreach (var item in generos)
+            {
+                var entity = RequestToEntity(item);
+                var genero = dal.RecuperarPor(g => g.Nome.ToUpper().Equals(item.Nome.ToUpper()));
+                if (genero is not null)
+                {
+                    listaGeneros.Add(genero);
+                }
+                else
+                {
+                    listaGeneros.Add(entity);
+                }
+            }
+            return listaGeneros;
+        }
+
+        private static Genero RequestToEntity(GeneroRequest generoRequest)
+        {
+            return new Genero { Nome = generoRequest.Nome, Descricao = generoRequest.Descricao };
+        }
+
+        public static void AddEndPointsMusicas(this WebApplication app)
         {
             app.MapGet("/Musicas", ([FromServices] Dal<Musica> dal) =>
             {
@@ -44,9 +70,9 @@ namespace APIScreen.EndPoints
                 return Results.Ok(musicaResponse);
             });
 
-            app.MapPost("/Musicas", ([FromServices] Dal<Musica> dal, [FromBody] MusicaRequest musicaRequest) =>
+            app.MapPost("/Musicas", ([FromServices] Dal<Musica> dal, [FromBody] MusicaRequest musicaRequest, [FromServices] Dal<Genero> dalGenero) =>
             {
-                var musica = new Musica { ArtistaId = musicaRequest.ArtistaId, Nome = musicaRequest.Nome, AnoLancamento = musicaRequest.AnoLancamento };
+                var musica = new Musica { ArtistaId = musicaRequest.ArtistaId, Nome = musicaRequest.Nome, AnoLancamento = musicaRequest.AnoLancamento, Generos = ConverterGeneroRequest(musicaRequest.Generos, dalGenero) };
                 dal.Adicionar(musica);
                 return Results.Ok();
 
@@ -81,8 +107,8 @@ namespace APIScreen.EndPoints
 
             });
 
-           
-
         }
+
+        
     }
 }
